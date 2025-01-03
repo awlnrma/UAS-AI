@@ -1,0 +1,10 @@
+setuptools
+requests
+joblib
+pandas
+numpy==1.24.2
+streamlit
+flask
+pyngrok>=5.1.0
+jsonify
+pip==24.3.1
