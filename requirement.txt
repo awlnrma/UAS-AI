@@ -1,8 +1,9 @@
+--upgrade pip setuptools wheel
 joblib==1.4.0
 setuptools
 requests
 pandas
-numpy==1.26.2
+numpy>=1.24.0,<1.26.0
 streamlit
 flask
 pyngrok>=7.2.2
