@@ -1,4 +1,4 @@
-joblib
+joblib==1.4.0
 setuptools
 requests
 pandas
